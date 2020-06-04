@@ -1,0 +1,30 @@
+.navbar {
+    padding-top: 1rem;
+    padding-left: 1.5rem;
+    padding-bottom: 1rem;
+    background-color: rgb(51, 101, 192);
+}
+
+a {
+    color:white;
+    font-size: 14px;
+}
+
+a.nav-link {
+    text-decoration: none;   
+}
+
+a.nav-link:hover, a:hover {
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.navbar-brand {
+    text-align: left;
+    color:white;
+    margin: 0;
+    padding-right: 1rem;
+}

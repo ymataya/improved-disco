@@ -1,0 +1,17 @@
+.home {
+    margin-top: 5rem;
+    text-align: center;
+}
+
+.start-search {
+    background-color: rgb(51, 101, 192);
+    color: white;
+    margin-top: 1rem;
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+
+.start-search:hover {
+    color:white;
+    font-weight: 500;
+}
